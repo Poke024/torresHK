@@ -1,7 +1,7 @@
 - Hi, I’m @torresHK, currently a student at the University of Kansas working to earn a Bachelor's degree in Computer Science.
 - I’m interested in cybersecurity, code analysis, and software development.
 - I’m currently learning C++, C#, and Python
-- I’m looking to collaborate on open source projects involving networks and reverse engineering / code analysis.
+- I’m looking to collaborate on open source projects involving networks, reverse engineering / code analysis, and software development.
 - How to reach me
   * email: adair.tor24@gmail.com
 
